@@ -8,4 +8,5 @@ int main(int, char**){
     std::cout << "Please enter your name: ";
     std::getline(std::cin, name);
     std::cout << "Hello, " << name << "!\n";
+    std::cout << "This is a delta\n";
 }
